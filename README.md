@@ -1,6 +1,6 @@
 # Snake Game for Terminal 🐍
 
-A simple, classic Snake game that you can play directly in your Mac Terminal! This project was developed as a fun, interactive way to practice Python and bring the classic Snake game to life in a text-based format.
+A simple, classic Snake game that you can play directly in your Mac Terminal! This project was developed to practice Python and bring the classic Snake game to life in a text-based format.
 
 ## About the Game
 
